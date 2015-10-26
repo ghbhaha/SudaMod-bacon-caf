@@ -9,7 +9,7 @@ Then run:
 After that do:
 
     cd .repo
-    git clone https://github.com/ghbhaha/SudaMod-bacon-caf.git -b sm-1.1-caf
+    git clone https://github.com/ghbhaha/SudaMod-bacon-caf.git -b sm-1.1-caf local_manifests
     cd ..
     repo sync
 
